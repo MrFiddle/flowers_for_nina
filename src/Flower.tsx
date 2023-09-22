@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const Flower = () => {
   return (
-    <div className="flex flex-col justify-center items-center">
+    <div className="flex flex-col justify-center items-center h-[100svh] w-[100svw]">
       {/* H1 with a fade in animation with tranform */}
       <h1 className="text-[3rem] font-bold text-white mt-[10px] text-center fixed top-32 animate-fadeIn">
         Pa usted...
