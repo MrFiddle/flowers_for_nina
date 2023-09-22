@@ -1,4 +1,4 @@
-import "./Flower.css";
+import "./flower.css";
 import { faRotate } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
